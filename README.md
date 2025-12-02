@@ -1,4 +1,6 @@
-# goruntu_isleme_vize1
+# sayisal_goruntu_isleme_vize1
+
+## Resimlerle birlikte 50 mb olduğu için lütfen ipynb dosyasını indiriniz. 
 
 T.C. Üsküdar Üniversitesi
 Sayısal Görüntü İşleme
