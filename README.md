@@ -1,4 +1,5 @@
 ## Resimlerle birlikte 50 mb olduğu için lütfen ipynb dosyasını indiriniz. 
+### Kodu çalıştırmak istrseniz, 2. hücredeki base_path değerini kendi makinenizdeki path değerine göre düzenlemelisiniz.
 
 T.C. Üsküdar Üniversitesi
 Sayısal Görüntü İşleme
